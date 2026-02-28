@@ -47,10 +47,105 @@
 
 ##  Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,c++,C#.net,python,java,flask,Pandas, NumPy,Scikit-learn, PySpark ,tensorflow,sklearn,mysql,postgres,html,css,js,kafka,git,github,Tableau, Apache Superset, Matplotlib, Power BI ,vscode,ubuntu" />
-</p>
+<!-- ================= GLASSMORPHISM TECH STACK ================= -->
 
+<h2 align="center"> Technical Expertise</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<h3> Programming Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<h3> Machine Learning & Research</h3>
+
+<img src="https://skillicons.dev/icons?i=tensorflow" /><br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<h3> Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<h3> Web & Backend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=flask,html,css,js,kafka" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<h3>Data Visualization & BI</h3>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau" />
+<img src="https://img.shields.io/badge/Apache%20Superset-20A6C9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<h3>⚙️ Tools & Platforms</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- ============================================================ -->
 ---
 
 ##  GitHub Analytics
