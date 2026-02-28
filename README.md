@@ -80,7 +80,8 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn" />
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </td>
 </tr>
 </table>
@@ -107,7 +108,7 @@
 
 <h3> Web & Backend Development</h3>
 
-<img src="https://skillicons.dev/icons?i=flask,html,css,js,kafka" />
+<img src="https://skillicons.dev/icons?i=flask,html,css,js" />
 
 </td>
 </tr>
@@ -134,10 +135,6 @@
 <table>
 <tr>
 <td align="center" width="100%">
-
-<h3>⚙️ Tools & Platforms</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu" />
 
 </td>
 </tr>
