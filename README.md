@@ -1,33 +1,59 @@
-<!-- ==================== ULTRA PRO GITHUB PROFILE ==================== -->
+<!-- ================= ULTRA PRO PROFILE – RESEARCH + LEADER EDITION ================= -->
 
-<h1 align="center">Hi 👋, I'm Chaitra</h1>
+<h1 align="center">Hi 👋, I'm Chaitra Latha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0080&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Engineer;Flask+%7C+Python+Specialist;Building+AI+Powered+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF0080&center=true&vCenter=true&width=950&lines=Software+Developer+%7C+Data+Science+Enthusiast;Associate+Software+Developer+at+ATOM;Machine+Learning+Researcher+%7C+Neural+Networks+%7C+MNIST;KNN+%7C+TensorFlow+%7C+Scikit-Learn+Specialist;Hackathon+Leader+%7C+Technical+Mentor;Building+Scalable+AI+%26+Analytics+Systems" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-💡 Passionate about building scalable AI-powered systems  
-🔭 Currently working on **Machine Learning & Flask Applications**  
-🌱 Exploring **Advanced Data Analytics & AI Systems**  
-🎯 Focused on real-world, production-ready projects  
+💼 Associate Software Developer at **ATOM**  
+🧠 Master's in Computer Applications (Data Science) – CGPA 9.13  
+📊 Specializing in Machine Learning, Data Analytics & Scalable Systems  
+🎯 Passionate about building production-ready AI-powered platforms  
 
 ---
 
-## 🧠 Tech Arsenal
+## 🧠 Research & Machine Learning Focus
+
+🔬 **Handwritten Digit Classification (MNIST)**  
+- Implemented using Neural Networks  
+- TensorFlow, Keras, MLP, ReLU, Backpropagation  
+
+📈 **COVID-19 Outcome Prediction (KNN Comparative Study)**  
+- Implemented using Python & Scikit-Learn  
+- Distance Metrics & Normalization Techniques  
+
+🛰️ **Geospatial ML Classification**  
+- Satellite imagery-based predictive modeling  
+
+🌾 **Agriculture Predictive Analytics**  
+- ML-based forecasting + Tableau Visualization  
+
+---
+
+## 🏆 Hackathon Leadership & Achievements
+
+🚀 Head Coordinator – *Bitotsav 2K23* (State-Level Technical Fest)  
+🧬 Core Member – *Team aTsom* (MIT Hackathon Initiative)  
+🎓 Mentored team – Amaravati Quantum Valley Hackathon  
+🏅 Certificate of Appreciation – NxtWave (AI Workshop Leadership)  
+🏆 Recognized by Director–L&D for Technical Excellence  
+
+---
+
+## 🛠️ Tech Arsenal
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,js,bootstrap,streamlit,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,flask,tensorflow,sklearn,mysql,postgres,html,css,js,kafka,git,github,vscode,ubuntu" />
 </p>
 
 ---
 
-## 📊 GitHub Power Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kchaitralatha-bit&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
@@ -44,7 +70,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kchaitralatha-bit/kchaitralatha-bit/output/github-contribution-grid-snake.svg" />
@@ -58,17 +84,17 @@
   <a href="https://linkedin.com/in/YOUR-LINK">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:kchaitralatha@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 💎 Quote I Believe In
+## 💎 Personal Philosophy
 
-> “Build systems that solve real problems. Code with purpose.”
+> “Research deeply. Build practically. Lead fearlessly.”
 
 ---
 
-⭐ From [Chaitra](https://github.com/kchaitralatha-bit)
+⭐ From [Chaitra Latha](https://github.com/kchaitralatha-bit)
