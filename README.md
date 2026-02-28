@@ -48,7 +48,7 @@
 ##  Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,flask,tensorflow,sklearn,mysql,postgres,html,css,js,kafka,git,github,vscode,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=c,c++,C#.net,python,java,flask,Pandas, NumPy,Scikit-learn, PySpark ,tensorflow,sklearn,mysql,postgres,html,css,js,kafka,git,github,Tableau, Apache Superset, Matplotlib, Power BI ,vscode,ubuntu" />
 </p>
 
 ---
