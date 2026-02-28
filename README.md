@@ -145,20 +145,6 @@
 
 </div>
 
-<!-- ============================================================ -->
----
-
-##  GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kchaitralatha-bit&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kchaitralatha-bit&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-</p>
-
-
-
-
----
 
 ##  Personal Philosophy
 
