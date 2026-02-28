@@ -8,44 +8,44 @@
 
 ---
 
-## 🚀 Professional Summary
+##  Professional Summary
 
-💼 Associate Software Developer at **ATOM**  
-🧠 Master's in Computer Applications (Data Science) – CGPA 9.13  
-📊 Specializing in Machine Learning, Data Analytics & Scalable Systems  
-🎯 Passionate about building production-ready AI-powered platforms  
+ -->Associate Software Developer at **ATOM**  
+ -->Master's in Computer Applications (Data Science) – CGPA 9.13  
+ -->Specializing in Machine Learning, Data Analytics & Scalable Systems  
+-->Passionate about building production-ready AI-powered platforms  
 
 ---
 
-## 🧠 Research & Machine Learning Focus
+##  Research & Machine Learning Focus
 
-🔬 **Handwritten Digit Classification (MNIST)**  
+ **Handwritten Digit Classification (MNIST)**  
 - Implemented using Neural Networks  
 - TensorFlow, Keras, MLP, ReLU, Backpropagation  
 
-📈 **COVID-19 Outcome Prediction (KNN Comparative Study)**  
+ **COVID-19 Outcome Prediction (KNN Comparative Study)**  
 - Implemented using Python & Scikit-Learn  
 - Distance Metrics & Normalization Techniques  
 
-🛰️ **Geospatial ML Classification**  
+ **Geospatial ML Classification**  
 - Satellite imagery-based predictive modeling  
 
-🌾 **Agriculture Predictive Analytics**  
+ **Agriculture Predictive Analytics**  
 - ML-based forecasting + Tableau Visualization  
 
 ---
 
-## 🏆 Hackathon Leadership & Achievements
+##  Hackathon Leadership & Achievements
 
-🚀 Head Coordinator – *Bitotsav 2K23* (State-Level Technical Fest)  
-🧬 Core Member – *Team aTsom* (MIT Hackathon Initiative)  
-🎓 Mentored team – Amaravati Quantum Valley Hackathon  
-🏅 Certificate of Appreciation – NxtWave (AI Workshop Leadership)  
-🏆 Recognized by Director–L&D for Technical Excellence  
+--> Head Coordinator – *Bitotsav 2K23* (State-Level Technical Fest)  
+--> Core Member – *Team aTsom* (MIT Hackathon Initiative)  
+--> Mentored team – Amaravati Quantum Valley Hackathon  
+--> Certificate of Appreciation – NxtWave (AI Workshop Leadership)  
+--> Recognized by Director–L&D for Technical Excellence  
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,flask,tensorflow,sklearn,mysql,postgres,html,css,js,kafka,git,github,vscode,ubuntu" />
@@ -53,45 +53,19 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kchaitralatha-bit&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kchaitralatha-bit&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
 </p>
 
----
 
-## 🔥 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchaitralatha-bit&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kchaitralatha-bit/kchaitralatha-bit/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:kchaitralatha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-## 💎 Personal Philosophy
+##  Personal Philosophy
 
 > “Research deeply. Build practically. Lead fearlessly.”
 
