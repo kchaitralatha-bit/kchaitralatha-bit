@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chaitra Latha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF0080&center=true&vCenter=true&width=950&lines=Data+Science+Enthusiast;Associate+Software+Developer+at+ATOM;Machine+Learning+Researcher+%7C+Neural+Networks+%7C+MNIST;KNN+%7C+TensorFlow+%7C+Scikit-Learn+Specialist;Hackathon+Leader+%7C+Technical+Mentor;Building+Scalable+AI+%26+Analytics+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF0080&center=true&vCenter=true&width=950&lines=Associate+Software+Developer+at+ATOM;Data+Science+Enthusiast;Machine+Learning+Researcher+%7C+Neural+Networks+%7C+MNIST;KNN+%7C+TensorFlow+%7C+Scikit-Learn+Specialist;Hackathon+Leader+%7C+Technical+Mentor;Building+Scalable+AI+%26+Analytics+Systems" />
 </p>
 
 ---
