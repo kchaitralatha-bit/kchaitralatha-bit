@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chaitra Latha</h1>
 
 <h3 align="center">
-Data Science Enthusiast • Machine Learning Researcher • Hackathon Leader
+Data scientist •Associate software developer
 </h3>
 
 <p align="center">
